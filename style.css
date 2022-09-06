@@ -1,0 +1,39 @@
+.bloco{
+    text-align: center;
+    display: block flex;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 270px;
+    height: 50px;
+    line-height: 1px;
+}
+
+#bloco-1{
+    color:white;
+    background-color: rgba(244, 139, 26, 0.717);
+    border: 4px rgba(216, 167, 89, 0.826) solid;
+}
+
+#bloco-2{
+    color:white;
+    background-color: rgba(53, 123, 83, 0.92);
+    border: 4px rgba(109, 195, 146, 0.872) solid;
+}
+
+#bloco-3{
+    color:white;
+    background-color: rgba(21, 63, 39, 0.92);
+    border: 4px rgba(109, 195, 146, 0.872) dashed;
+}
+
+#bloco-4{
+    color:white;
+    background-color: rgba(227, 50, 15, 0.906);
+    border: 4px rgba(216, 167, 89, 0.826) dashed;
+}
+
+main{
+    font-family: Helvetica;
+    font-size: small;
+}
